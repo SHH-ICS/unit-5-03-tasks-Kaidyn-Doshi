@@ -1,28 +1,70 @@
-What is the best programming language?
-A. Python
-B. JavaScript
-C. PHP
-D. D
+Which Android version did the first Pixel ship with?
+A. Android Lollipop
+B. Android Oreo
+C. Android Nougat
+D. Android Pie
+Correct Answer: C
+
+What was the function of the Soli chip used on the Pixel 4?
+A. Smart home control
+B. On-device security
+C. Motion sensing
+D. All of the above
+Correct Answer: C
+
+What is Google's current design language for Pixels called?
+A. Android 13
+B. Material You
+C. Pixel UI
+D. Android 12
 Correct Answer: B
 
-What is NINA's favorite programming language?
-A. HTML
-B. CSS
-C. PHP
-D. Python
-Correct Answer: B
-
-What is Aidens favorite programming language?
-A. C#
-B. C
-C. PHP
-D. Python
-Correct Answer: B
-
-Does Amelia like scratch?
-A. Yes
-B. Yes
-C. No
-D. No
+What was the codename of Google's Tensor chip?
+A. Cloudripper
+B. Marlin
+C. Sailfish
+D. Whitechapel
 Correct Answer: D
+
+Squeeze to bring up Google Assistant can be found on which Pixel phones in this list?
+A. Pixel 2
+B. The original Pixel
+C. Pixel 5a
+D. Pixel 4
+Correct Answer: D
+
+Which was the first Pixel phone to house a dual rear camera setup?
+A. Pixel 3 XL
+B. Pixel 2
+C. Pixel 4
+D. Pixel 7
+Correct Answer: C
+
+Google introduced a new feature on the Pixel 6 to remove unwanted objects. What's it called?
+A. Camouflage
+B. Touch-Up
+C. Cleanup Pictures
+D. Magic Eraser
+Correct Answer: D
+
+What product debuted the Pixel branding?
+A. Chromebook Pixel
+B. Pixel Slate
+C. First Pixel phone
+D. Pixelbook
+Correct Answer: A
+
+Which was Google's first mid-range Pixel phone?
+A. Pixel 2
+B. Pixel 3a
+C. Pixel 6a
+D. Pixel 4
+Correct Answer: B
+
+Which was the first Pixel model to support wireless charging?
+A. Pixel 3
+B. Pixel 6a
+C. Pixel 5
+D. Pixel 2
+Correct Answer: A
 

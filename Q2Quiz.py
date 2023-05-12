@@ -1,3 +1,4 @@
+print("Google Pixel quiz: \n ")
 with open("questions.txt", "r") as file:
     score = 0
     for line in file:
@@ -7,4 +8,4 @@ with open("questions.txt", "r") as file:
                 score += 1
         else:
             print(line.rstrip())
-    print(f"You scored {score} out of 4.")
+    print(f"You scored {score} out of 10.")

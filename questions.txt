@@ -1,0 +1,28 @@
+What is the best programming language?
+A. Python
+B. JavaScript
+C. PHP
+D. D
+Correct Answer: B
+
+What is NINA's favorite programming language?
+A. HTML
+B. CSS
+C. PHP
+D. Python
+Correct Answer: B
+
+What is Aidens favorite programming language?
+A. C#
+B. C
+C. PHP
+D. Python
+Correct Answer: B
+
+Does Amelia like scratch?
+A. Yes
+B. Yes
+C. No
+D. No
+Correct Answer: D
+

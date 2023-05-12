@@ -11,7 +11,6 @@ with open("questions.txt", "a") as file:
         answer_c = input("Enter answer C: ")
         answer_d = input("Enter answer D: ")
         correct_answer = input("Enter the letter of the correct answer (A, B, C, or D): ")
-        # Write the question and answers to the file
         file.write(f"{question}\n")
         file.write(f"A. {answer_a}\n")
         file.write(f"B. {answer_b}\n")
